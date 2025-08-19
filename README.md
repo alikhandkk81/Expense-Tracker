@@ -12,5 +12,5 @@ A simple and intuitive expense tracker application that helps you manage your fi
 
     User-friendly interface for quick expense tracking
 
-    ![Alt text](expense.PNG)
+    ![Screenshot](expense.png)
 
